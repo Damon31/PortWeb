@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PortWeb/static/css/main.e1cc5b17.css",
+    "main.js": "/PortWeb/static/js/main.5f32c646.js",
+    "static/media/VishvaPatelCV.pdf": "/PortWeb/static/media/VishvaPatelCV.776759e4d0bb06de212b.pdf",
+    "static/media/hero-bg-1.jpg": "/PortWeb/static/media/hero-bg-1.5a3233c0bcb06a691fe2.jpg",
+    "static/media/profile_me.jpeg": "/PortWeb/static/media/profile_me.54e17b36230c917ab75d.jpeg",
+    "index.html": "/PortWeb/index.html",
+    "main.e1cc5b17.css.map": "/PortWeb/static/css/main.e1cc5b17.css.map",
+    "main.5f32c646.js.map": "/PortWeb/static/js/main.5f32c646.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1cc5b17.css",
+    "static/js/main.5f32c646.js"
+  ]
+}
